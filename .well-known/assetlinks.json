@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bonfiremelody.app",
+      "sha256_cert_fingerprints": ["A3:5A:45:00:38:8F:3F:F0:E6:AA:BF:9A:4A:19:B6:B5:64:29:79:65:CB:7D:F6:D4:A8:CA:DE:23:5B:44:26:8A"]
+    }
+  }
+]
